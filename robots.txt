@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://hide-tan.github.io/sitemap.xml
