@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ITスキルアップのための備忘録]]></title>
-  <link href="http://hide-tan.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Mobile Application | ITスキルアップのための備忘録]]></title>
+  <link href="http://hide-tan.github.io/blog/categories/mobile-application/atom.xml" rel="self"/>
   <link href="http://hide-tan.github.io/"/>
   <updated>2016-10-09T20:36:15+02:00</updated>
   <id>http://hide-tan.github.io/</id>
