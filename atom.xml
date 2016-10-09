@@ -4,7 +4,7 @@
   <title><![CDATA[ITスキルアップのための備忘録]]></title>
   <link href="http://hide-tan.github.io/atom.xml" rel="self"/>
   <link href="http://hide-tan.github.io/"/>
-  <updated>2016-10-09T16:37:10+02:00</updated>
+  <updated>2016-10-09T20:33:01+02:00</updated>
   <id>http://hide-tan.github.io/</id>
   <author>
     <name><![CDATA[Hideyuki TANUSHI]]></name>
@@ -12,5 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interactive Prototype (iOS)]]></title>
+    <link href="http://hide-tan.github.io/blog/2016/10/09/interactive-prototype-ios/"/>
+    <updated>2016-10-09T20:29:53+02:00</updated>
+    <id>http://hide-tan.github.io/blog/2016/10/09/interactive-prototype-ios</id>
+    <content type="html"><![CDATA[<p>This prototype is to a simple native mobile application (iOS). The main functions of this application are:</p>
+
+<ul>
+<li>identifying GPS position of next SL bus to a selected bus stop on a map.</li>
+<li>SL travel planner.</li>
+<li>information of traffic deviation.</li>
+</ul>
+
+
+<iframe src="https://prottapp.com/e/e6adfe" width="390" height="906" frameborder="0"></iframe>
+
+]]></content>
+  </entry>
   
 </feed>
